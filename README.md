@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 
 # CSC207H1 Y - Software Design Project Phase 2
 
